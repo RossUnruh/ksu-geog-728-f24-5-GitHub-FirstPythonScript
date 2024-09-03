@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!GitHub-FirstPythonScript.py
+!demo08_1.py
+!demo08_2.py
